@@ -1,0 +1,1 @@
+I personally use the modified version of the type-1 style-5 launcher from the official [Rofi repo on GitHub](https://github.com/adi1090x/rofi)
